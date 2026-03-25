@@ -59,7 +59,7 @@ Once these are defined, we will:
 - Draft the Vercel integration checklist  
 - Implement the GitHub Actions deployment workflow  
 - Add governance guardrails and documentation  
-- Update the AIOpsLab QA project with deployment controls  
+- Update the QA project with deployment controls  
 
 ---
 
